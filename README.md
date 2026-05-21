@@ -1,13 +1,13 @@
-# SOC-Skillsets
+# Security Tools, so hot right now.
 
-> Documenting the grind toward having a better understanding of what tools and methods are used in SOC environments.
-> Labs, guided modules, CTF exercises, and practical examples across various platforms.
+> Better understanding of what tools & methods are used in SOC environments.
+> Labs, guided modules, CTF exercises, & practical examples across various platforms.
 > Although a lot of my focus is in support/sales engineering, I'm fascinated in how cybersecurity tools are used!
 
 ---
 
 ## 🔍 Overview
-This repo serves as a hub for cybersecurity skillsets, with a focus on skills and tools relevant to real-world exploits.
+
 
 The structure includes:
 - 🧠 **HTB Academy** – SOC Analyst Prerequisites path (Linux, Windows, Bash, Networking, Nmap, etc.)
@@ -58,7 +58,7 @@ SOC-Path/
 
 ## 🧰 Tools Covered So Far
 
-**Blue Team & Monitoring:**  
+**Defensive Monitoring:**  
 Splunk, Zeek, Suricata, Wazuh, Graylog, tcpdump, Wireshark, OpenVAS, Lynis, Fail2ban, TheHive, Security Onion
 
 **Offensive Tools:**  
@@ -90,7 +90,7 @@ MITRE ATT&CK, log analysis, IDS/IPS, ticketing workflows, SIEM, SSH, firewalls, 
 ---
 
 ## 🧠 Goal
-Build a visible, technical portfolio to demonstrate SOC tools — showcasing tools, detection, response techniques, and real-world application. This includes:  
+Showcasing tools, detection, response, & application. This includes:  
 - Learning structured SOC modules from HTB Academy, TryHackMe, and Cybrary  
 - Practicing ticketing and detection workflows using platforms like TheHive and Wazuh  
 - Capturing screenshots, answering questions, and showing methodology  
