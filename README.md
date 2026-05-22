@@ -10,10 +10,10 @@
 
 
 The structure includes:
-- 🧠 **HTB Academy** – SOC Analyst Prerequisites path (Linux, Windows, Bash, Networking, Nmap, etc.)
+- 🧠 **HTB Academy** – Linux, Windows, Bash, Networking, Nmap, etc.
 - 💻 **HTB Machines** – Starting Point & beyond write-ups
 - 🧩 **TryHackMe** – room walk-throughs, flags, and tool usage
-- 📚 **Cybrary** – SOC Analyst Career Path milestones, notes, and practicals
+- 📚 **Cybrary** – Various platform milestones, notes, and practicals
 
 ---
 
