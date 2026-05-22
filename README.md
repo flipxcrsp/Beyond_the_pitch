@@ -38,14 +38,6 @@ SOC-Path/
 
 ---
 
-## ✅ Progress Snapshot
-- [x] HTB Academy: SOC Analyst Prerequisites  
-- [x] TryHackMe: Cyber Security 101 Path  
-- [ ] TryHackMe: SOC Level 1 Path  
-- [x] Cybrary: SOC Analyst Career Path  
-
----
-
 ## 📜 Certificates
 
 - [SIEM Basics](Cybrary/Certificates/cybrary-cert-siem-basics.pdf)  
@@ -91,9 +83,9 @@ MITRE ATT&CK, log analysis, IDS/IPS, ticketing workflows, SIEM, SSH, firewalls, 
 
 ## 🧠 Goal
 Showcasing tools, detection, response, & application. This includes:  
-- Learning structured SOC modules from HTB Academy, TryHackMe, and Cybrary  
-- Practicing ticketing and detection workflows using platforms like TheHive and Wazuh  
-- Capturing screenshots, answering questions, and showing methodology  
+- Modules from HTB Academy, TryHackMe, & Cybrary  
+- Practicing ticketing & detection tools using platforms like TheHive & Wazuh  
+- Capturing screenshots, answering questions, & showing methodology  
 
 ---
 
