@@ -1,15 +1,17 @@
-# Security Tools, so hot right now.
+# 🧩 Product & Platform Observations.
+ 
+> Some platforms are more about workflows, user experience, operations, compliance, launch strategy, or business process.
+> 
+> I take a look beyond the pitch: what they solve, who they help, where they fit, & why adoption matters, while trying to get as hands-on within my limits. 
+
+
+# 🛡️ Security Tools, so hot right now.
 
 > Exploring security tools, learning platforms, & lab environments to understand how detection, monitoring, ticketing, & response workflows function.
 > 
 > HTB, TryHackMe, and Cybrary are training grounds. The tools inside them are the real story.
 
 
-# 🧩 Product & Platform Observations
- 
-> Some platforms are more about workflows, user experience, operations, compliance, launch strategy, or business process.
-> 
-> I take a look beyond the pitch: what they solve, who they help, where they fit, & why adoption matters, while trying to get as hands-on within my limits. 
 
 ---
 
