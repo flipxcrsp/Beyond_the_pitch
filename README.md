@@ -3,8 +3,6 @@
 > Exploring security tools, learning platforms, & lab environments to understand how detection, monitoring, ticketing, & response workflows function.
 > 
 > HTB, TryHackMe, and Cybrary are training grounds. The tools inside them are the real story.
-> 
-> Most of my interest is support/sales engineering, but understanding how cybersecurity tools are used helps me speak clearly to the problems they solve.
 
 
 ## 🧩 Product & Platform Observations
