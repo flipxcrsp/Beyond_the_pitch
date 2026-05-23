@@ -1,44 +1,43 @@
 # Security Tools, so hot right now.
 
-> Better understanding of what tools & methods are used in SOC environments.
-> Labs, guided modules, CTF exercises, & practical examples across various platforms.
-> Although a lot of my focus is in support/sales engineering, I'm fascinated in how cybersecurity tools are used!
+> Exploring security tools, learning platforms, & lab environments to understand how detection, monitoring, ticketing, & response workflows function.
+> 
+> HTB, TryHackMe, and Cybrary are training grounds. The tools inside them are the real story.
+> 
+> Most of my interest is support/sales engineering, but understanding how cybersecurity tools are used helps me speak clearly to the problems they solve.
+
+
+## 🧩 Product & Platform Observations
+
+> Not every product here is a security tool.
+> 
+> Some platforms are more about workflows, user experience, operations, compliance, launch strategy, or business process.
+> 
+> I take a look beyond the pitch: what they solve, who they help, where they fit, & why adoption matters, while trying to get as hands-on within my limits. 
 
 ---
 
 ## 🔍 Overview
 
-
 The structure includes:
-- 🧠 **HTB Academy** – Linux, Windows, Bash, Networking, Nmap, etc.
-- 💻 **HTB Machines** – Starting Point & beyond write-ups
-- 🧩 **TryHackMe** – room walk-throughs, flags, and tool usage
-- 📚 **Cybrary** – Various platform milestones, notes, and practicals
+
+- 🧠 **HTB Academy** — Technical learning focused on systems, networking, scripting, security concepts, & problem solving through modular labs & enterprise-ready training paths.
+
+- 💻 **HTB Machines** — Practical exercises built around troubleshooting, enumeration, attack paths, persistence, & understanding how systems behave under real conditions.
+
+- 🧩 **TryHackMe** — Browser-based training platform built around guided experimentation, gamified learning, workflow repetition, & accessible onboarding for both individuals & teams.
+
+- 📚 **Cybrary** — Technical learning platform covering cybersecurity, certifications, operational workflows, ticketing systems, compliance concepts, & enterprise-oriented training experiences with progress tracking & continuing education support.
+
+- 🏢 **ServiceNow-GRC** — Not just a ticketing system anymore. Notes & observations around governance, compliance workflows, policy management, risk visibility, entity structures, & how large organizations coordinate processes across teams, departments, & regions.
 
 ---
 
-## 📂 Repo Structure
+## 📜 Certificates & CEUs
 
-SOC-Path/  
-├── HTB_Academy/              # Notes and labs from HTB Academy  
-│   ├── Linux_Fundamentals.md  
-│   └── screenshots/  
-├── HTB_Machines/             # Write-ups from Hack The Box machines  
-│   ├── Starting_Point.md  
-│   └── screenshots/  
-├── TryHackMe/                # Room-based exercises  
-├── Cybrary/  
-│   ├── Certificates/             # Downloaded Cybrary completion certs (PDF)  
-│   ├── SIEM_Search_Exp/          # Screenshot series from Wazuh SIEM search challenge  
-│   ├── Windows_Event_Logs/       # Screenshots from Windows Event Log analysis and Wazuh filtering  
-│   ├── Log_Analysis/             # Screenshot sequence of Cybrary’s log filtering challenge  
-│   ├── The_Hive/                 # Security ticketing workflows in TheHive  
-│   └── Wazuh/                    # MITRE ATT&CK detections, rule filters, and dashboard visuals  
-└── README.md  
+Turns out curiosity occasionally pays dividends in CEUs too.
 
----
-
-## 📜 Certificates
+A few completions & milestones:
 
 - [SIEM Basics](Cybrary/Certificates/cybrary-cert-siem-basics.pdf)  
 - [Search Expressions in a SIEM](Cybrary/Certificates/cybrary-cert-search-expressions-in-a-siem.pdf)  
@@ -48,22 +47,25 @@ SOC-Path/
 
 ---
 
-## 🧰 Tools Covered So Far
+## 🧰 Platforms, Tools, & Concepts
 
-**Defensive Monitoring:**  
-Splunk, Zeek, Suricata, Wazuh, Graylog, tcpdump, Wireshark, OpenVAS, Lynis, Fail2ban, TheHive, Security Onion
+**Monitoring & Detection:**  
+Splunk, Zeek, Suricata, Wazuh, Graylog, Wireshark, tcpdump
 
-**Offensive Tools:**  
-Metasploit, Hydra, Nmap, Burp Suite
+**Workflow & Response:**  
+TheHive, ServiceNow-GRC, ticketing workflows, log analysis, MITRE ATT&CK
 
-**OSINT & Reconnaissance:**  
-Recon-ng, Shodan, TheHarvester
+**Assessment & Enumeration:**  
+OpenVAS, Nmap, Recon-ng, Shodan, TheHarvester
 
-**Scripting & Automation:**  
-Bash, PowerShell, Python, YAML, JSON, Ansible, Docker
+**Offensive & Testing Exposure:**  
+Metasploit, Hydra, Burp Suite
 
-**Frameworks & Concepts:**  
-MITRE ATT&CK, log analysis, IDS/IPS, ticketing workflows, SIEM, SSH, firewalls, UFW, syslog, DNS/DHCP, VLANs, NAT
+**Systems & Automation:**  
+Bash, PowerShell, Python, YAML, JSON, Docker, Ansible
+
+**Infrastructure & Networking Concepts:**  
+SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 
 ---
 
