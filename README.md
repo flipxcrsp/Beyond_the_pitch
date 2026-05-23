@@ -81,17 +81,22 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 **Windows Event Log Analysis:**  
 ![Pikachu Account Created](Cybrary/Windows_Event_Logs/event_log_4720_pikachu_generalview.png)
 
-
+**ServiceNow Framework Example: 
 ![GRC Architecture Diagram](./ServiceNow-GRC/Screenshots/GRC_Diagram_Framework.png)
+
 ---
 
 ## 🧠 Goal
-Showcasing tools, detection, response, & application. This includes:  
-- Modules from HTB Academy, TryHackMe, & Cybrary  
-- Practicing ticketing & detection tools using platforms like TheHive & Wazuh  
-- Capturing screenshots, answering questions, & showing methodology  
+
+Understanding how tools, workflows, & platforms function in operational environments.
+
+This includes:
+- Exploring labs, guided modules, & platform ecosystems
+- Understanding detection, workflow, governance, & response concepts
+- Observations, screenshots, implementation ideas, & operational design along the way
+- Bridging technical curiosity with business thinking wherever possible
 
 ---
 
 **Maintained by [flipxcrsp](https://github.com/flipxcrsp)**  
-*“The grind, one lab at a time.”*
+*Curiosity first; titles later.*
