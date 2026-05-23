@@ -1,6 +1,8 @@
 # Log Analysis – Cybrary Lab
 
-This very fun lab works through some basic log analysis skills using Linux command-line. Screenshots & terminal outputs reflect progress through Cybrary’s **Log Analysis Basics**.
+This very fun lab works through some basic log analysis skills using Linux command-line. 
+
+Screenshots & terminal outputs reflect progress through Cybrary’s **Log Analysis Basics**.
 
 ---
 
