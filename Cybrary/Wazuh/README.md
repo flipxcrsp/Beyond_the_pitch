@@ -1,6 +1,6 @@
 # 🛡️ Wazuh SIEM Labs – Search Expressions & Event Correlation
 
-This section contains hands-on labs using the **Wazuh SIEM** interface to analyze Windows security logs, filter events using Lucene syntax, and correlate real-time alerts with MITRE ATT&CK TTPs.
+Labs using the **Wazuh SIEM** interface to analyze Windows security logs, filter events using Lucene syntax, & correlate alerts with MITRE ATT&CK TTPs.
 
 ---
 
