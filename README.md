@@ -2,7 +2,7 @@
  
 > Some platforms are more about workflows, user experience, operations, compliance, launch strategy, or business process.
 > 
-> I take a look beyond the pitch: what they solve, who they help, where they fit, & why adoption matters, while trying to get as hands-on within my limits. 
+> I take a look beyond the pitch: what they solve, who they help, & where they fit; while trying to get as hands-on within my limits. 
 
 
 # 🛡️ Security Tools, so hot right now.
