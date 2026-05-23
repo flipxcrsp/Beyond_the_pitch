@@ -1,6 +1,5 @@
-# TryHackMe – Cyber Security 101
-
-**Path**: Cyber Security 101  
+# TryHackMe – Security 101
+ 
 **Status**: In Progress  
 **Room Highlights**: Linux Fundamentals Part 1 & 2, Defensive Security, Search Skills, Offensive Security, FakeBank
 
@@ -17,7 +16,7 @@ All completed rooms in the **Cyber Security 101** learning path are shown below:
 ## 🧠 Selected Labs & Highlights
 
 ### ✅ Defensive Security Intro  
-🛡️ Investigated suspicious activity and escalated SIEM alerts
+🛡️ Investigated suspicious activity & escalated SIEM alerts
 
 ![Defensive Security](screenshots/defensive-security-intro-completion.png)  
 ![SIEM Inspection](screenshots/siem-inspection.png)  
@@ -28,7 +27,7 @@ All completed rooms in the **Cyber Security 101** learning path are shown below:
 ### ✅ FakeBank Challenge  
 Performed directory brute-forcing with Gobuster.  
 Discovered `/bank-transfer` endpoint.  
-Transferred funds and captured the flag.
+Transferred funds & captured the flag.
 
 ![Gobuster Output](screenshots/gobuster-output-bank-transfer.png)  
 ![Transfer Page](screenshots/fakebank-bank-transfer-page.png)  
@@ -37,7 +36,7 @@ Transferred funds and captured the flag.
 ---
 
 ### ✅ Threat Hunting Mini-Challenge  
-Identified and analyzed a malicious IP from SIEM logs.  
+Identified & analyzed a malicious IP from SIEM logs.  
 Created a firewall rule to block the attacker.
 
 ![IP Lookup](screenshots/siem-ip-inspection.png)  
