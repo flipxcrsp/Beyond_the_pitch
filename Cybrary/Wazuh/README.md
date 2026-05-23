@@ -85,7 +85,7 @@ Completed challenge by identifying correct users, filters, & answering correlati
 
 ## 🏁 Outcome
 
-Successfully completed Wazuh SIEM labs & gained hands-on experience with log filtering, correlation, & detection workflows using the Wazuh dashboard.
+CEUs are always welcome.
 
 ### 📜 Certificate of Completion
 
