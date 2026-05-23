@@ -1,6 +1,8 @@
 # 🪟 Windows Event Logs – Cybrary Lab
 
-This section contains hands-on analysis of Windows Event Logs, specifically around account creation (Event ID **4720**). Events were examined using both **Windows Event Viewer** and **Wazuh SIEM** for validation and correlation.
+Analysis of Windows Event Logs, specifically around account creation (Event ID **4720**). 
+
+Events were examined using both **Windows Event Viewer** & **Wazuh SIEM** for validation & correlation.
 
 ---
 
@@ -71,9 +73,9 @@ This section contains hands-on analysis of Windows Event Logs, specifically arou
 
 ## ✅ Outcome
 
-Completed a full lab investigation of Windows security events related to account creation, verified event ID 4720 presence using Event Viewer, and cross-validated data using Wazuh SIEM.
+Full investigation of Windows security events related to account creation, verified event ID 4720 presence using Event Viewer, & cross-validated data using Wazuh SIEM.
 
-Successfully practiced MITRE mapping (T1098), log correlation, PowerShell agent restarts, and network troubleshooting.
+MITRE mapping (T1098), log correlation, PowerShell agent restarts, & network troubleshooting.
 
 ---
 
