@@ -81,6 +81,8 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 **Windows Event Log Analysis:**  
 ![Pikachu Account Created](Cybrary/Windows_Event_Logs/event_log_4720_pikachu_generalview.png)
 
+
+![GRC Architecture Diagram](./Screenshots/GRC_Diagram_Framework.png)
 ---
 
 ## 🧠 Goal
