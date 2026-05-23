@@ -1,14 +1,16 @@
 # 🐝 TheHive – Security Ticketing Lab
 
-This section documents hands-on experience using **TheHive**, a security incident response platform (SIRP), to simulate real-world SOC workflows. Activities included ticket creation, assignment, annotation, and closure, forming the foundation of incident management and response tracking.
+Using **TheHive**, a security incident response platform (SIRP). 
+
+Activities: ticket creation, assignment, annotation, and closure, forming the foundation of incident management & response tracking.
 
 ---
 
 ## 🎯 Objectives
 
-- Understand how security incidents are reported and tracked
-- Practice creating and assigning tickets
-- Annotate events and collaborate within a ticketing queue
+- Understand how security incidents are reported & tracked
+- Practice creating & assigning tickets
+- Annotate events & collaborate within a ticketing queue
 - Simulate incident lifecycle management from detection to resolution
 
 ---
@@ -41,6 +43,6 @@ Once created, tickets are automatically added to a queue for analysts to triage.
 
 ## ✅ Outcome
 
-Completed Cybrary's **Security Ticketing Basics** lab using TheHive. Demonstrated proficiency in navigating the platform, managing tickets, and simulating analyst responsibilities.
+Completed Cybrary's **Security Ticketing Basics** lab using TheHive.
 
 ![Certificate - Security Ticketing Basics](../Certificates/cybrary-cert-security-ticketing-basics.png)
