@@ -69,6 +69,9 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 
 ## 🔍 Notable Screens (from Labs)
 
+**ServiceNow Framework Example:** 
+![GRC Architecture Diagram](./ServiceNow-GRC/Screenshots/GRC_Diagram_Framework.png)
+
 **TheHive Ticket Lifecycle:**  
 ![Ticket Created](Cybrary/TheHive/thehive_ticket_created_details.png)  
 ![Ticket Closed](Cybrary/TheHive/thehive_ticket_closed_summary.png)
@@ -79,8 +82,6 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 **Windows Event Log Analysis:**  
 ![Pikachu Account Created](Cybrary/Windows_Event_Logs/event_log_4720_pikachu_generalview.png)
 
-**ServiceNow Framework Example:** 
-![GRC Architecture Diagram](./ServiceNow-GRC/Screenshots/GRC_Diagram_Framework.png)
 
 ---
 
