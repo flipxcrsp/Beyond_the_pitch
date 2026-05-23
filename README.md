@@ -9,7 +9,7 @@
 
 > Exploring security tools & learning platforms:
 > 
-> HTB, TryHackMe, and Cybrary are training grounds. The tools inside them are the real story.
+> HTB, TryHackMe, & Cybrary are excellent training grounds. The tools inside them are the real story.
 
 
 
