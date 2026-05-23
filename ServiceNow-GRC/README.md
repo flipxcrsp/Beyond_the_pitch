@@ -1,4 +1,4 @@
-# 🏢 ServiceNow GRC / IRM Notes & Observations
+# 🏢 ServiceNow GRC / IRM Notes
 
 Originally, I mostly associated ServiceNow with ticketing & internal workflow management.
 
