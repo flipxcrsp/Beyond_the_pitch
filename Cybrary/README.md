@@ -57,7 +57,7 @@ Each lab folder contains:
 - 📝 Documentation and notes (README.md)
 - 🏆 Certificates of completion
 
-These exercises were completed as part of Cybrary’s [SOC Analyst Career Path](https://www.cybrary.it/).
+These exercises were completed as part of Cybrary’s [Career Path Series](https://www.cybrary.it/).
 
 ---
 
