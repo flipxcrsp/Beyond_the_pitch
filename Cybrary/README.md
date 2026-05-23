@@ -1,6 +1,6 @@
-# 📚 Cybrary Labs – SOC Analyst Career Path
+# 📚 Cybrary Labs
 
-This directory showcases hands-on labs and certifications completed through **Cybrary** as part of my SOC Analyst learning path. Each subfolder represents a practical domain, from log analysis and SIEM operations to Windows investigations and ticketing workflows.
+This directory showcases labs completed through **Cybrary**. Each subfolder represents a practical domain, from log analysis & SIEM operations to Windows investigations & ticketing.
 
 ---
 
@@ -55,7 +55,7 @@ Each lab folder contains:
 - 📝 Documentation and notes (README.md)
 - 🏆 Certificates of completion
 
-These exercises were completed as part of Cybrary’s [SOC Analyst Career Path](https://www.cybrary.it/) and support my preparation for Tier 1 SOC roles focused on log analysis, detection, and response.
+These exercises were completed as part of Cybrary’s [SOC Analyst Career Path](https://www.cybrary.it/).
 
 ---
 
