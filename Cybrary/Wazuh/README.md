@@ -38,7 +38,7 @@ In-depth alert breakdown including rule IDs, agent info, & timestamps.
 
 ## ✅ SIEM Challenge Completion
 
-Completed challenge by identifying correct users, filters, & answering correlation questions in Wazuh.
+Challenge by identifying correct users, filters, & answering correlation questions in Wazuh.
 
 ![Challenge Result](wazuh_challenge_results.png)
 
@@ -95,9 +95,9 @@ CEUs are always welcome.
 
 ---
 
-## 📄 Additional Certification
+## 📄 Additional 
 
-This lab is part of the broader **SIEM Search Expressions in a SIEM** series. The certificate earned for mastering DQL search syntax & SIEM query logic is included here due to its strong relevance to the Wazuh search filters & log analysis exercises.
+This was part of the broader **SIEM Search Expressions in a SIEM** series. 
 
 <img src="../Certificates/cybrary-cert-search-expressions-in-a-siem.png" width="500"/>
 
