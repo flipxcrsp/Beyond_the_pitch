@@ -17,7 +17,8 @@
 
 ## 🔍 Overview
 
-The structure includes:
+
+- 🏢 **ServiceNow-GRC** — Not just a ticketing system anymore. Notes & observations around governance, compliance workflows, policy management, risk visibility, entity structures, & how large organizations coordinate processes across teams, departments, & regions.
 
 - 🧠 **HTB Academy** — Technical learning focused on systems, networking, scripting, security concepts, & problem solving through modular labs & enterprise-ready training paths.
 
@@ -27,7 +28,6 @@ The structure includes:
 
 - 📚 **Cybrary** — Technical learning platform covering cybersecurity, certifications, operational workflows, ticketing systems, compliance concepts, & enterprise training experiences with progress tracking & continuing education support.
 
-- 🏢 **ServiceNow-GRC** — Not just a ticketing system anymore. Notes & observations around governance, compliance workflows, policy management, risk visibility, entity structures, & how large organizations coordinate processes across teams, departments, & regions.
 
 ---
 
