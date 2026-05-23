@@ -4,7 +4,7 @@ Originally, I mostly associated ServiceNow with ticketing & project management.
 
 The deeper I explored the IRM/GRC side, the more I realized how much broader the platform has become for enterprises 👏
 
-What stood out to me most was the relationship between governance, workflows, policy management, entity structures, risk visibility, compliance coordination, & operational standardization across large organizations.
+What stood out was the relationship between governance, workflows, policy management, entity structures, risk visibility, compliance coordination, & standardization across large organizations.
 
 The platform feels less like a traditional ITSM tool & more like enterprise operational infrastructure once you start seeing how the pieces connect.
 
