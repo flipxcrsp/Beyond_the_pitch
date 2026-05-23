@@ -1,6 +1,6 @@
 # 🏢 ServiceNow GRC / IRM Notes
 
-Originally, I mostly associated ServiceNow with ticketing & internal workflow management.
+Originally, I mostly associated ServiceNow with ticketing & project management.
 
 The deeper I explored the IRM/GRC side, the more I realized how much broader the platform has become in enterprise environments.
 
