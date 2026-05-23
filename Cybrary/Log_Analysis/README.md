@@ -1,6 +1,6 @@
 # Log Analysis – Cybrary Lab
 
-This lab demonstrates foundational log analysis skills using Linux command-line tools. Screenshots and terminal outputs reflect progress through Cybrary’s **Log Analysis Basics** module under the SOC Analyst Career Path.
+This lab demonstrates foundational log analysis skills using Linux command-line tools. Screenshots and terminal outputs reflect progress through Cybrary’s **Log Analysis Basics**.
 
 ---
 
