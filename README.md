@@ -81,7 +81,7 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 **Windows Event Log Analysis:**  
 ![Pikachu Account Created](Cybrary/Windows_Event_Logs/event_log_4720_pikachu_generalview.png)
 
-**ServiceNow Framework Example: 
+**ServiceNow Framework Example:** 
 ![GRC Architecture Diagram](./ServiceNow-GRC/Screenshots/GRC_Diagram_Framework.png)
 
 ---
