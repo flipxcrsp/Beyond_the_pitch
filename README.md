@@ -7,7 +7,7 @@
 
 # 🛡️ Security Tools, so hot right now.
 
-> Exploring security tools, learning platforms, & lab environments to understand how detection, monitoring, ticketing, & response workflows function.
+> Exploring security tools & learning platforms to understand how detection, monitoring, ticketing, & response work together.
 > 
 > HTB, TryHackMe, and Cybrary are training grounds. The tools inside them are the real story.
 
