@@ -27,7 +27,7 @@ The structure includes:
 
 - 🧩 **TryHackMe** — Browser-based training platform built around guided experimentation, gamified learning, workflow repetition, & accessible onboarding for individuals/teams.
 
-- 📚 **Cybrary** — Technical learning platform covering cybersecurity, certifications, operational workflows, ticketing systems, compliance concepts, & enterprise-oriented training experiences with progress tracking & continuing education support.
+- 📚 **Cybrary** — Technical learning platform covering cybersecurity, certifications, operational workflows, ticketing systems, compliance concepts, & enterprise training experiences with progress tracking & continuing education support.
 
 - 🏢 **ServiceNow-GRC** — Not just a ticketing system anymore. Notes & observations around governance, compliance workflows, policy management, risk visibility, entity structures, & how large organizations coordinate processes across teams, departments, & regions.
 
