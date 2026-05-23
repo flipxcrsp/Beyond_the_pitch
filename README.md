@@ -82,7 +82,7 @@ SSH, syslog, IDS/IPS, DNS/DHCP, VLANs, NAT, UFW/firewalls
 ![Pikachu Account Created](Cybrary/Windows_Event_Logs/event_log_4720_pikachu_generalview.png)
 
 
-![GRC Architecture Diagram](./Screenshots/GRC_Diagram_Framework.png)
+![GRC Architecture Diagram](./ServiceNow-GRC/Screenshots/GRC_Diagram_Framework.png)
 ---
 
 ## 🧠 Goal
