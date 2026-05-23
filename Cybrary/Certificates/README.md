@@ -1,6 +1,6 @@
 # 🏅 Cybrary Certificates
 
-This directory contains completion certificates and digital badges earned through hands-on Cybrary labs under the SOC Analyst Career Path.
+Certificates & digital badges earned through hands-on Cybrary labs. Yes, please.
 
 ---
 
