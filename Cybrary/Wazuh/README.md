@@ -6,7 +6,7 @@ Labs using the **Wazuh SIEM** to analyze Windows security logs, filter events us
 
 ## 📊 Wazuh Main Dashboard
 
-Explore event levels, MITRE correlations, and alert timelines.
+Explore event levels, MITRE correlations, & alert timelines.
 
 ![Main Dashboard](wazuh_main_dashboard.png)
 
@@ -14,7 +14,7 @@ Explore event levels, MITRE correlations, and alert timelines.
 
 ## 🔍 Using Lucene Filters for Precision Search
 
-Filtering specific logs using `rule.description`, `manager.name`, `eventID`, and usernames with DQL syntax.
+Filtering specific logs using `rule.description`, `manager.name`, `eventID`, & usernames with DQL syntax.
 
 ![User Creation Filter](wazuh_event_filter_user_created_t1098.png)
 
@@ -22,7 +22,7 @@ Filtering specific logs using `rule.description`, `manager.name`, `eventID`, and
 
 ## 📎 MITRE Technique T1098 - User Account Creation
 
-Wazuh detected the creation of the `Pikachu` account and mapped it to MITRE ATT&CK T1098 (Persistence).
+Wazuh detected the creation of the `Pikachu` account & mapped it to MITRE ATT&CK T1098 (Persistence).
 
 ![Pikachu Event](wazuh_pikachu_event_details_t1098.png)
 
@@ -30,7 +30,7 @@ Wazuh detected the creation of the `Pikachu` account and mapped it to MITRE ATT&
 
 ## 📄 Correlating Alerts & Viewing Event Details
 
-In-depth alert breakdown including rule IDs, agent info, and timestamps.
+In-depth alert breakdown including rule IDs, agent info, & timestamps.
 
 ![Event Detail](wazuh_event_apparmor_denied_details.png)
 
@@ -38,7 +38,7 @@ In-depth alert breakdown including rule IDs, agent info, and timestamps.
 
 ## ✅ SIEM Challenge Completion
 
-Completed challenge by identifying correct users, filters, and answering correlation questions in Wazuh.
+Completed challenge by identifying correct users, filters, & answering correlation questions in Wazuh.
 
 ![Challenge Result](wazuh_challenge_results.png)
 
@@ -85,7 +85,7 @@ Completed challenge by identifying correct users, filters, and answering correla
 
 ## 🏁 Outcome
 
-Successfully completed Wazuh SIEM labs and gained hands-on experience with log filtering, correlation, and detection workflows using the Wazuh dashboard.
+Successfully completed Wazuh SIEM labs & gained hands-on experience with log filtering, correlation, & detection workflows using the Wazuh dashboard.
 
 ### 📜 Certificate of Completion
 
@@ -97,7 +97,7 @@ Successfully completed Wazuh SIEM labs and gained hands-on experience with log f
 
 ## 📄 Additional Certification
 
-This lab is part of the broader **SIEM Search Expressions in a SIEM** series. The certificate earned for mastering DQL search syntax and SIEM query logic is included here due to its strong relevance to the Wazuh search filters and log analysis exercises.
+This lab is part of the broader **SIEM Search Expressions in a SIEM** series. The certificate earned for mastering DQL search syntax & SIEM query logic is included here due to its strong relevance to the Wazuh search filters & log analysis exercises.
 
 <img src="../Certificates/cybrary-cert-search-expressions-in-a-siem.png" width="500"/>
 
