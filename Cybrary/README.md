@@ -1,6 +1,8 @@
 # 📚 Cybrary Labs
 
-This directory showcases labs completed through **Cybrary**. Each subfolder represents a practical domain, from log analysis & SIEM operations to Windows investigations & ticketing.
+Labs completed through **Cybrary**. 
+
+Each subfolder represents a practical domain, from log analysis & SIEM to Windows investigations & ticketing.
 
 ---
 
