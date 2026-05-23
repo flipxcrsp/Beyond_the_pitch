@@ -93,7 +93,7 @@ This includes:
 - Exploring labs, guided modules, & platform ecosystems
 - Understanding detection, workflow, governance, & response concepts
 - Observations, screenshots, implementation ideas, & operational design along the way
-- Bridging technical curiosity with business thinking wherever possible
+- Bridging technical interest with business thinking wherever possible
 
 ---
 
