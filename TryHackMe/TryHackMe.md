@@ -52,9 +52,3 @@ _Environment Used in Cyber Security 101 Path_
 ![AttackBox Info](screenshots/attackbox_instructions.png)
 
 ---
-
-## ✅ Next Steps
-
-- Complete **SOC Level 1 Path**  
-- Add deeper technical breakdowns per room  
-- Begin documenting Cybrary content
