@@ -1,21 +1,25 @@
-# 📘 IRM Fundamentals – ServiceNow GRC Training Summary
+# 📘 IRM Fundamentals – ServiceNow GRC Notes
 
-This document summarizes my learning and hands-on experience from the **ServiceNow GRC: Integrated Risk Management (IRM) Fundamentals (Xanadu)** course. It provides a structured walkthrough of IRM components and workflows, mapped to real-world GRC scenarios that apply to SOC operations, compliance management, and enterprise risk strategy.
+Observations, notes, & exploration from the **ServiceNow GRC: Integrated Risk Management (IRM) Fundamentals (Xanadu)** course.
+
+The deeper I explored the platform, the more interesting the relationships between governance, workflows, risk visibility, entity structures, policy management, & operational coordination became.
+
+What initially felt like a traditional ITSM platform started feeling more like enterprise operational infrastructure once the moving pieces began connecting together.
 
 ---
 
 ## 🧭 GRC Architecture Overview
 
-Understanding the relationship between authority documents, policies, control objectives, risks, and entities is key to mastering how ServiceNow GRC works as a unified system.
+One of the more interesting parts of ServiceNow GRC was seeing how authority documents, policies, control objectives, risks, entities, & workflows all connect together as a unified operational system.
 
-This high-level architecture diagram visualizes how core GRC components connect:
+This architecture diagram helps visualize how the core GRC components relate to one another:
 
 ![GRC Architecture Diagram](./Screenshots/GRC_Diagram_Framework.png)
 
 
 ## 🧭 Configurable GRC Workspaces
 
-Role-based dashboards help GRC personas manage tasks, issues, and assessments.
+Role-based workspaces make it easier to separate operational responsibilities while still maintaining visibility across workflows, issues, and assessments.
 
 ### 🎯 Key Workspace Roles
 - **Compliance Workspace** – For IT and Corporate Compliance Managers
@@ -93,7 +97,7 @@ Entities enable scoping of risks and controls to individual items (e.g., servers
 
 ## 🧾 Introduction to Compliance Management
 
-Compliance management in ServiceNow GRC ensures that organizations follow internal policies and meet external regulations.
+One thing that became clear pretty quickly was how much of GRC revolves around maintaining consistency across policies, controls, workflows, & external requirements without losing operational visibility.
 
 ### Key Concepts:
 - **Policies** define internal expectations to meet external standards
@@ -237,25 +241,14 @@ State progression: Draft → WIP → Approval → Review → Closed
 
 ## 🔍 Strategic Takeaway
 
-Understanding GRC requires:
-- A holistic view of compliance, risk, and control integration
-- Automating workflows across the enterprise
-- Communicating compliance posture and risk exposure clearly
+What interested me most about ServiceNow GRC wasn’t just the compliance side. It was seeing how much operational coordination, standardization, automation, & visibility large organizations need once workflows start scaling across departments, regions, and entities.
 
-This course reinforced key skills for SOC, compliance analyst, and GRC roles, including:
-- RAM creation and scoring logic
-- Issue lifecycle tracking
-- Control automation with entity filters
-- Hands-on risk response workflows
+A lot of these concepts initially sounded abstract from the outside looking in, but seeing how the relationships between policies, controls, risks, entities, & workflows connect together made the platform feel much more practical than I originally expected.
 
 ---
 
-## 📸 Visual Proof
+## 📸 Notable Screens
 ![Badge Unlocked](./Screenshots/GRC_IRM_Fundamentals_Badge_Unlocked.png)  
 ![Completion Confirmation](./Screenshots/GRC_IRM_Fundamentals_Completion_Date.png)
 
 ---
-
-## 💼 About This Repo
-This content is part of my dedicated ServiceNow-GRC repository. For more information about how GRC supports cybersecurity and business alignment, check out the [main README](../README.md).
-
