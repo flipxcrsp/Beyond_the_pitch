@@ -25,7 +25,7 @@ The structure includes:
 
 - 💻 **HTB Machines** — Practical exercises built around troubleshooting, enumeration, attack paths, persistence, & understanding how systems behave under real conditions.
 
-- 🧩 **TryHackMe** — Browser-based training platform built around guided experimentation, gamified learning, workflow repetition, & accessible onboarding for both individuals & teams.
+- 🧩 **TryHackMe** — Browser-based training platform built around guided experimentation, gamified learning, workflow repetition, & accessible onboarding for individuals/teams.
 
 - 📚 **Cybrary** — Technical learning platform covering cybersecurity, certifications, operational workflows, ticketing systems, compliance concepts, & enterprise-oriented training experiences with progress tracking & continuing education support.
 
